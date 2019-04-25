@@ -4,7 +4,7 @@ import (
 	"go/ast"
 	"go/types"
 
-	"github.com/securego/gosec"
+	"github.com/mururu/gosec"
 )
 
 type archive struct {

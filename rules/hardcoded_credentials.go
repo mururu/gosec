@@ -20,7 +20,7 @@ import (
 	"strconv"
 
 	zxcvbn "github.com/nbutton23/zxcvbn-go"
-	"github.com/securego/gosec"
+	"github.com/mururu/gosec"
 )
 
 type credentials struct {

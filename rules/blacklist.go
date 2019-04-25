@@ -18,7 +18,7 @@ import (
 	"go/ast"
 	"strings"
 
-	"github.com/securego/gosec"
+	"github.com/mururu/gosec"
 )
 
 type blacklistedImport struct {

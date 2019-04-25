@@ -10,7 +10,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/securego/gosec"
+	"github.com/mururu/gosec"
 	"golang.org/x/tools/go/loader"
 )
 

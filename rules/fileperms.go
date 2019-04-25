@@ -19,7 +19,7 @@ import (
 	"go/ast"
 	"strconv"
 
-	"github.com/securego/gosec"
+	"github.com/mururu/gosec"
 )
 
 type filePermissions struct {
